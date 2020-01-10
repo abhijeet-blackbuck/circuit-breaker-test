@@ -1,0 +1,520 @@
+Jan 10, 2020 13:13:37 +0530 [51189 1] com.newrelic INFO: Writing to New Relic log file: /Users/abhijeetraj/IdeaProjects/circuit-breaker-test/libs/logs/newrelic_agent.log
+Jan 10, 2020 13:13:37 +0530 [51189 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_172
+Jan 10, 2020 13:13:37 +0530 [51189 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.172-b11
+Jan 10, 2020 13:13:37 +0530 [51189 1] com.newrelic INFO: OS Mac OS X version 10.13.6 arch x86_64
+Jan 10, 2020 13:13:37 +0530 [51189 1] com.newrelic INFO: Agent Host: LAP-C02VJDZFHV22.local IP: 172.17.10.15
+Jan 10, 2020 13:13:37 +0530 [51189 1] com.newrelic INFO: New Relic Agent v5.9.0 is initializing...
+Jan 10, 2020 13:13:39 +0530 [51189 10] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jan 10, 2020 13:13:45 +0530 [51189 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jan 10, 2020 13:13:45 +0530 [51189 1] com.newrelic INFO: Setting audit_mode to false
+Jan 10, 2020 13:13:45 +0530 [51189 1] com.newrelic INFO: Setting protocol to "https"
+Jan 10, 2020 13:13:48 +0530 [51189 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/abhijeetraj/IdeaProjects/circuit-breaker-test/libs/./newrelic.yml
+Jan 10, 2020 13:13:48 +0530 [51189 1] com.newrelic INFO: New Relic Agent v5.9.0 has started
+Jan 10, 2020 13:13:48 +0530 [51189 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@69d0a921
+Jan 10, 2020 13:13:48 +0530 [51189 1] com.newrelic INFO: Premain startup complete in 14,248ms
+Jan 10, 2020 13:14:02 +0530 [51189 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.29
+Jan 10, 2020 13:14:14 +0530 [51189 30] com.newrelic INFO: Host name is LAP-C02VJDZFHV22.local, display host LAP-C02VJDZFHV22.local for application My Application
+Jan 10, 2020 13:14:17 +0530 [51189 30] com.newrelic INFO: Collector redirection to collector-009.newrelic.com:443
+Jan 10, 2020 13:14:20 +0530 [51189 30] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Jan 10, 2020 13:14:20 +0530 [51189 30] com.newrelic INFO: Agent run id: Bdkh_iyTsQDCACdyqh9E_IteGCu4AAIBAAAnIQEAAMf1AgAfRPyJAwAFNS45LjAAFkxBUC1DMDJWSkRaRkhWMjIubG9jYWwADk15IEFwcGxpY2F0aW9u
+Jan 10, 2020 13:14:20 +0530 [51189 30] com.newrelic INFO: Agent 51189@LAP-C02VJDZFHV22.local/My Application connected to collector.newrelic.com:443
+Jan 10, 2020 13:14:20 +0530 [51189 30] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2585258/applications/524614793
+Jan 10, 2020 13:14:20 +0530 [51189 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jan 10, 2020 13:14:20 +0530 [51189 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jan 10, 2020 13:14:21 +0530 [51189 30] com.newrelic INFO: Real user monitoring is enabled for application My Application. Auto instrumentation is enabled.
+Jan 10, 2020 13:23:45 +0530 [51189 6] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jan 10, 2020 13:23:45 +0530 [51189 6] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jan 10, 2020 14:08:37 +0530 [54707 1] com.newrelic INFO: Writing to New Relic log file: /Users/abhijeetraj/IdeaProjects/circuit-breaker-test/libs/logs/newrelic_agent.log
+Jan 10, 2020 14:08:37 +0530 [54707 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_172
+Jan 10, 2020 14:08:37 +0530 [54707 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.172-b11
+Jan 10, 2020 14:08:37 +0530 [54707 1] com.newrelic INFO: OS Mac OS X version 10.13.6 arch x86_64
+Jan 10, 2020 14:08:37 +0530 [54707 1] com.newrelic INFO: Agent Host: LAP-C02VJDZFHV22.local IP: 172.17.10.15
+Jan 10, 2020 14:08:37 +0530 [54707 1] com.newrelic INFO: New Relic Agent v5.9.0 is initializing...
+Jan 10, 2020 14:08:38 +0530 [54707 10] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jan 10, 2020 14:08:41 +0530 [54707 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jan 10, 2020 14:08:41 +0530 [54707 1] com.newrelic INFO: Setting audit_mode to false
+Jan 10, 2020 14:08:41 +0530 [54707 1] com.newrelic INFO: Setting protocol to "https"
+Jan 10, 2020 14:08:42 +0530 [54707 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/abhijeetraj/IdeaProjects/circuit-breaker-test/libs/./newrelic.yml
+Jan 10, 2020 14:08:42 +0530 [54707 1] com.newrelic INFO: New Relic Agent v5.9.0 has started
+Jan 10, 2020 14:08:42 +0530 [54707 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@69d0a921
+Jan 10, 2020 14:08:42 +0530 [54707 1] com.newrelic INFO: Premain startup complete in 7,559ms
+Jan 10, 2020 14:08:51 +0530 [54707 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.29
+Jan 10, 2020 14:08:55 +0530 [54707 6] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jan 10, 2020 14:08:55 +0530 [54707 6] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jan 10, 2020 14:12:21 +0530 [54991 1] com.newrelic INFO: Writing to New Relic log file: /Users/abhijeetraj/IdeaProjects/circuit-breaker-test/libs/logs/newrelic_agent.log
+Jan 10, 2020 14:12:21 +0530 [54991 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_172
+Jan 10, 2020 14:12:21 +0530 [54991 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.172-b11
+Jan 10, 2020 14:12:21 +0530 [54991 1] com.newrelic INFO: OS Mac OS X version 10.13.6 arch x86_64
+Jan 10, 2020 14:12:21 +0530 [54991 1] com.newrelic INFO: Agent Host: LAP-C02VJDZFHV22.local IP: 172.17.10.15
+Jan 10, 2020 14:12:21 +0530 [54991 1] com.newrelic INFO: New Relic Agent v5.9.0 is initializing...
+Jan 10, 2020 14:12:22 +0530 [54991 10] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jan 10, 2020 14:12:25 +0530 [54991 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jan 10, 2020 14:12:25 +0530 [54991 1] com.newrelic INFO: Setting audit_mode to false
+Jan 10, 2020 14:12:25 +0530 [54991 1] com.newrelic INFO: Setting protocol to "https"
+Jan 10, 2020 14:12:26 +0530 [54991 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/abhijeetraj/IdeaProjects/circuit-breaker-test/libs/./newrelic.yml
+Jan 10, 2020 14:12:26 +0530 [54991 1] com.newrelic INFO: New Relic Agent v5.9.0 has started
+Jan 10, 2020 14:12:26 +0530 [54991 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@69d0a921
+Jan 10, 2020 14:12:26 +0530 [54991 1] com.newrelic INFO: Premain startup complete in 7,252ms
+Jan 10, 2020 14:12:34 +0530 [54991 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.29
+Jan 10, 2020 14:12:41 +0530 [54991 30] com.newrelic INFO: Host name is LAP-C02VJDZFHV22.local, display host LAP-C02VJDZFHV22.local for application My Application
+Jan 10, 2020 14:12:42 +0530 [54991 30] com.newrelic INFO: Collector redirection to collector-009.newrelic.com:443
+Jan 10, 2020 14:12:43 +0530 [54991 30] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Jan 10, 2020 14:12:43 +0530 [54991 30] com.newrelic INFO: Agent run id: BU0Iirec57opACdyqh9E_IteGDlQAAIBAAAnIQEAANbPAgQfRPyJAwAFNS45LjAAFkxBUC1DMDJWSkRaRkhWMjIubG9jYWwADk15IEFwcGxpY2F0aW9u
+Jan 10, 2020 14:12:43 +0530 [54991 30] com.newrelic INFO: Agent 54991@LAP-C02VJDZFHV22.local/My Application connected to collector.newrelic.com:443
+Jan 10, 2020 14:12:43 +0530 [54991 30] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2585258/applications/524614793
+Jan 10, 2020 14:12:43 +0530 [54991 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jan 10, 2020 14:12:43 +0530 [54991 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jan 10, 2020 14:12:44 +0530 [54991 30] com.newrelic INFO: Real user monitoring is enabled for application My Application. Auto instrumentation is enabled.
+Jan 10, 2020 14:46:40 +0530 [54991 6] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jan 10, 2020 14:46:42 +0530 [54991 64] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@6f496d50 tried to finish but ServiceManager not started
+Jan 10, 2020 14:48:27 +0530 [54991 67] com.newrelic INFO: A socket exception was encountered while sending data to New Relic (java.net.SocketException: Operation timed out (Read failed)). Please check your network / proxy settings.
+Jan 10, 2020 14:48:29 +0530 [54991 6] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jan 10, 2020 14:50:33 +0530 [56135 1] com.newrelic INFO: Writing to New Relic log file: /Users/abhijeetraj/IdeaProjects/circuit-breaker-test/libs/logs/newrelic_agent.log
+Jan 10, 2020 14:50:33 +0530 [56135 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_172
+Jan 10, 2020 14:50:33 +0530 [56135 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.172-b11
+Jan 10, 2020 14:50:33 +0530 [56135 1] com.newrelic INFO: OS Mac OS X version 10.13.6 arch x86_64
+Jan 10, 2020 14:50:33 +0530 [56135 1] com.newrelic INFO: Agent Host: LAP-C02VJDZFHV22.local IP: 172.17.10.15
+Jan 10, 2020 14:50:33 +0530 [56135 1] com.newrelic INFO: New Relic Agent v5.9.0 is initializing...
+Jan 10, 2020 14:50:34 +0530 [56135 10] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jan 10, 2020 14:50:37 +0530 [56135 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jan 10, 2020 14:50:37 +0530 [56135 1] com.newrelic INFO: Setting audit_mode to false
+Jan 10, 2020 14:50:37 +0530 [56135 1] com.newrelic INFO: Setting protocol to "https"
+Jan 10, 2020 14:50:38 +0530 [56135 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/abhijeetraj/IdeaProjects/circuit-breaker-test/libs/./newrelic.yml
+Jan 10, 2020 14:50:38 +0530 [56135 1] com.newrelic INFO: New Relic Agent v5.9.0 has started
+Jan 10, 2020 14:50:38 +0530 [56135 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@69d0a921
+Jan 10, 2020 14:50:38 +0530 [56135 1] com.newrelic INFO: Premain startup complete in 6,217ms
+Jan 10, 2020 14:50:45 +0530 [56135 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.29
+Jan 10, 2020 14:50:48 +0530 [56135 30] com.newrelic INFO: Host name is LAP-C02VJDZFHV22.local, display host LAP-C02VJDZFHV22.local for application My Application
+Jan 10, 2020 14:50:52 +0530 [56135 30] com.newrelic INFO: Collector redirection to collector-009.newrelic.com:443
+Jan 10, 2020 14:50:53 +0530 [56135 30] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Jan 10, 2020 14:50:53 +0530 [56135 30] com.newrelic INFO: Agent run id: BUoo--jSg61xACdyqh9E_IteGEI4AAIBAAAnIQEAANtHAgQfRPyJAwAFNS45LjAAFkxBUC1DMDJWSkRaRkhWMjIubG9jYWwADk15IEFwcGxpY2F0aW9u
+Jan 10, 2020 14:50:53 +0530 [56135 30] com.newrelic INFO: Agent 56135@LAP-C02VJDZFHV22.local/My Application connected to collector.newrelic.com:443
+Jan 10, 2020 14:50:53 +0530 [56135 30] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2585258/applications/524614793
+Jan 10, 2020 14:50:53 +0530 [56135 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jan 10, 2020 14:50:53 +0530 [56135 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jan 10, 2020 14:50:54 +0530 [56135 30] com.newrelic INFO: Real user monitoring is enabled for application My Application. Auto instrumentation is enabled.
+Jan 10, 2020 15:08:08 +0530 [56135 6] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jan 10, 2020 15:08:08 +0530 [56135 6] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jan 10, 2020 15:09:57 +0530 [57511 1] com.newrelic INFO: Writing to New Relic log file: /Users/abhijeetraj/IdeaProjects/circuit-breaker-test/libs/logs/newrelic_agent.log
+Jan 10, 2020 15:09:57 +0530 [57511 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_172
+Jan 10, 2020 15:09:57 +0530 [57511 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.172-b11
+Jan 10, 2020 15:09:57 +0530 [57511 1] com.newrelic INFO: OS Mac OS X version 10.13.6 arch x86_64
+Jan 10, 2020 15:09:57 +0530 [57511 1] com.newrelic INFO: Agent Host: LAP-C02VJDZFHV22.local IP: 172.17.10.15
+Jan 10, 2020 15:09:57 +0530 [57511 1] com.newrelic INFO: New Relic Agent v5.9.0 is initializing...
+Jan 10, 2020 15:09:58 +0530 [57511 10] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jan 10, 2020 15:10:00 +0530 [57511 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jan 10, 2020 15:10:00 +0530 [57511 1] com.newrelic INFO: Setting audit_mode to false
+Jan 10, 2020 15:10:00 +0530 [57511 1] com.newrelic INFO: Setting protocol to "https"
+Jan 10, 2020 15:10:02 +0530 [57511 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/abhijeetraj/IdeaProjects/circuit-breaker-test/libs/./newrelic.yml
+Jan 10, 2020 15:10:02 +0530 [57511 1] com.newrelic INFO: New Relic Agent v5.9.0 has started
+Jan 10, 2020 15:10:02 +0530 [57511 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@69d0a921
+Jan 10, 2020 15:10:02 +0530 [57511 1] com.newrelic INFO: Premain startup complete in 6,273ms
+Jan 10, 2020 15:10:07 +0530 [57511 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.29
+Jan 10, 2020 15:10:12 +0530 [57511 30] com.newrelic INFO: Host name is LAP-C02VJDZFHV22.local, display host LAP-C02VJDZFHV22.local for application My Application
+Jan 10, 2020 15:10:13 +0530 [57511 30] com.newrelic INFO: Collector redirection to collector-009.newrelic.com:443
+Jan 10, 2020 15:10:14 +0530 [57511 30] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Jan 10, 2020 15:10:14 +0530 [57511 30] com.newrelic INFO: Agent run id: BbUiP6atf7euACdyqh9E_IteGEboAAIBAAAnIQEAAOCnAgQfRPyJAwAFNS45LjAAFkxBUC1DMDJWSkRaRkhWMjIubG9jYWwADk15IEFwcGxpY2F0aW9u
+Jan 10, 2020 15:10:14 +0530 [57511 30] com.newrelic INFO: Agent 57511@LAP-C02VJDZFHV22.local/My Application connected to collector.newrelic.com:443
+Jan 10, 2020 15:10:14 +0530 [57511 30] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2585258/applications/524614793
+Jan 10, 2020 15:10:14 +0530 [57511 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jan 10, 2020 15:10:14 +0530 [57511 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jan 10, 2020 15:10:15 +0530 [57511 30] com.newrelic INFO: Real user monitoring is enabled for application My Application. Auto instrumentation is enabled.
+Jan 10, 2020 15:18:52 +0530 [57511 6] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jan 10, 2020 15:18:52 +0530 [57511 43] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@33f0c8a1 tried to finish but ServiceManager not started
+Jan 10, 2020 15:18:52 +0530 [57511 47] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@381cc89d tried to finish but ServiceManager not started
+Jan 10, 2020 15:18:53 +0530 [57511 6] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jan 10, 2020 15:20:19 +0530 [58216 1] com.newrelic INFO: Writing to New Relic log file: /Users/abhijeetraj/IdeaProjects/circuit-breaker-test/libs/logs/newrelic_agent.log
+Jan 10, 2020 15:20:19 +0530 [58216 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_172
+Jan 10, 2020 15:20:19 +0530 [58216 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.172-b11
+Jan 10, 2020 15:20:19 +0530 [58216 1] com.newrelic INFO: OS Mac OS X version 10.13.6 arch x86_64
+Jan 10, 2020 15:20:19 +0530 [58216 1] com.newrelic INFO: Agent Host: LAP-C02VJDZFHV22.local IP: 172.17.10.15
+Jan 10, 2020 15:20:19 +0530 [58216 1] com.newrelic INFO: New Relic Agent v5.9.0 is initializing...
+Jan 10, 2020 15:20:20 +0530 [58216 10] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jan 10, 2020 15:20:23 +0530 [58216 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jan 10, 2020 15:20:23 +0530 [58216 1] com.newrelic INFO: Setting audit_mode to false
+Jan 10, 2020 15:20:23 +0530 [58216 1] com.newrelic INFO: Setting protocol to "https"
+Jan 10, 2020 15:20:24 +0530 [58216 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/abhijeetraj/IdeaProjects/circuit-breaker-test/libs/./newrelic.yml
+Jan 10, 2020 15:20:24 +0530 [58216 1] com.newrelic INFO: New Relic Agent v5.9.0 has started
+Jan 10, 2020 15:20:24 +0530 [58216 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@69d0a921
+Jan 10, 2020 15:20:24 +0530 [58216 1] com.newrelic INFO: Premain startup complete in 6,531ms
+Jan 10, 2020 15:20:34 +0530 [58216 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.29
+Jan 10, 2020 15:20:39 +0530 [58216 30] com.newrelic INFO: Host name is LAP-C02VJDZFHV22.local, display host LAP-C02VJDZFHV22.local for application My Application
+Jan 10, 2020 15:20:40 +0530 [58216 30] com.newrelic INFO: Collector redirection to collector-009.newrelic.com:443
+Jan 10, 2020 15:20:41 +0530 [58216 30] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Jan 10, 2020 15:20:41 +0530 [58216 30] com.newrelic INFO: Agent run id: BSVGyEKxI8DoACdyqh9E_IteGElAAAIBAAAnIQEAAONoAgQfRPyJAwAFNS45LjAAFkxBUC1DMDJWSkRaRkhWMjIubG9jYWwADk15IEFwcGxpY2F0aW9u
+Jan 10, 2020 15:20:41 +0530 [58216 30] com.newrelic INFO: Agent 58216@LAP-C02VJDZFHV22.local/My Application connected to collector.newrelic.com:443
+Jan 10, 2020 15:20:41 +0530 [58216 30] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2585258/applications/524614793
+Jan 10, 2020 15:20:41 +0530 [58216 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jan 10, 2020 15:20:41 +0530 [58216 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jan 10, 2020 15:20:42 +0530 [58216 30] com.newrelic INFO: Real user monitoring is enabled for application My Application. Auto instrumentation is enabled.
+Jan 10, 2020 15:44:01 +0530 [58216 68] com.newrelic INFO: A socket exception was encountered while sending data to New Relic (java.net.SocketException: Operation timed out (Read failed)). Please check your network / proxy settings.
+Jan 10, 2020 15:44:32 +0530 [58216 6] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jan 10, 2020 15:44:32 +0530 [58216 49] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@4708e777 tried to finish but ServiceManager not started
+Jan 10, 2020 15:44:32 +0530 [58216 43] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@49cb0745 tried to finish but ServiceManager not started
+Jan 10, 2020 15:44:32 +0530 [58216 43] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@31fc796e tried to finish but ServiceManager not started
+Jan 10, 2020 15:44:32 +0530 [58216 45] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@41f5fa08 tried to finish but ServiceManager not started
+Jan 10, 2020 15:44:32 +0530 [58216 6] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jan 10, 2020 15:52:02 +0530 [60108 1] com.newrelic INFO: Writing to New Relic log file: /Users/abhijeetraj/IdeaProjects/circuit-breaker-test/libs/logs/newrelic_agent.log
+Jan 10, 2020 15:52:02 +0530 [60108 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_172
+Jan 10, 2020 15:52:02 +0530 [60108 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.172-b11
+Jan 10, 2020 15:52:02 +0530 [60108 1] com.newrelic INFO: OS Mac OS X version 10.13.6 arch x86_64
+Jan 10, 2020 15:52:02 +0530 [60108 1] com.newrelic INFO: Agent Host: LAP-C02VJDZFHV22.local IP: 172.17.10.15
+Jan 10, 2020 15:52:02 +0530 [60108 1] com.newrelic INFO: New Relic Agent v5.9.0 is initializing...
+Jan 10, 2020 15:52:03 +0530 [60108 10] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jan 10, 2020 15:52:06 +0530 [60108 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jan 10, 2020 15:52:06 +0530 [60108 1] com.newrelic INFO: Setting audit_mode to false
+Jan 10, 2020 15:52:06 +0530 [60108 1] com.newrelic INFO: Setting protocol to "https"
+Jan 10, 2020 15:52:08 +0530 [60108 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/abhijeetraj/IdeaProjects/circuit-breaker-test/libs/./newrelic.yml
+Jan 10, 2020 15:52:08 +0530 [60108 1] com.newrelic INFO: New Relic Agent v5.9.0 has started
+Jan 10, 2020 15:52:08 +0530 [60108 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@69d0a921
+Jan 10, 2020 15:52:08 +0530 [60108 1] com.newrelic INFO: Premain startup complete in 7,589ms
+Jan 10, 2020 15:52:16 +0530 [60108 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.29
+Jan 10, 2020 15:52:23 +0530 [60108 30] com.newrelic INFO: Host name is LAP-C02VJDZFHV22.local, display host LAP-C02VJDZFHV22.local for application My Application
+Jan 10, 2020 15:52:25 +0530 [60108 30] com.newrelic INFO: Collector redirection to collector-009.newrelic.com:443
+Jan 10, 2020 15:52:26 +0530 [60108 30] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Jan 10, 2020 15:52:26 +0530 [60108 30] com.newrelic INFO: Agent run id: BTkGOI-Y7RdHACdyqh9E_IteGFDAAAIBAAAnIQEAAOrMAgQfRPyJAwAFNS45LjAAFkxBUC1DMDJWSkRaRkhWMjIubG9jYWwADk15IEFwcGxpY2F0aW9u
+Jan 10, 2020 15:52:26 +0530 [60108 30] com.newrelic INFO: Agent 60108@LAP-C02VJDZFHV22.local/My Application connected to collector.newrelic.com:443
+Jan 10, 2020 15:52:26 +0530 [60108 30] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2585258/applications/524614793
+Jan 10, 2020 15:52:26 +0530 [60108 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jan 10, 2020 15:52:26 +0530 [60108 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jan 10, 2020 15:52:27 +0530 [60108 30] com.newrelic INFO: Real user monitoring is enabled for application My Application. Auto instrumentation is enabled.
+Jan 10, 2020 15:53:01 +0530 [60108 6] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jan 10, 2020 15:53:01 +0530 [60108 43] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@4dad399f tried to finish but ServiceManager not started
+Jan 10, 2020 15:53:01 +0530 [60108 43] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@3cccd376 tried to finish but ServiceManager not started
+Jan 10, 2020 15:53:01 +0530 [60108 46] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@3e759916 tried to finish but ServiceManager not started
+Jan 10, 2020 15:53:01 +0530 [60108 50] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@7bed47fb tried to finish but ServiceManager not started
+Jan 10, 2020 15:53:01 +0530 [60108 6] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jan 10, 2020 15:53:01 +0530 [60108 67] com.newrelic INFO: Host name is LAP-C02VJDZFHV22.local, display host LAP-C02VJDZFHV22.local for application My Application
+Jan 10, 2020 15:53:02 +0530 [60108 67] com.newrelic INFO: Collector redirection to collector-009.newrelic.com:443
+Jan 10, 2020 15:53:02 +0530 [60108 67] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Jan 10, 2020 15:53:02 +0530 [60108 67] com.newrelic INFO: Agent run id: BQStGlyvnLAVACdyqh9E_IteGFD8AAIBAAAnIQEAAOrMAgQfRPyJAwAFNS45LjAAFkxBUC1DMDJWSkRaRkhWMjIubG9jYWwADk15IEFwcGxpY2F0aW9u
+Jan 10, 2020 15:53:02 +0530 [60108 67] com.newrelic INFO: Agent 60108@LAP-C02VJDZFHV22.local/My Application connected to collector.newrelic.com:443
+Jan 10, 2020 15:53:02 +0530 [60108 67] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2585258/applications/524614793
+Jan 10, 2020 15:53:02 +0530 [60108 67] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jan 10, 2020 15:53:02 +0530 [60108 67] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jan 10, 2020 16:24:30 +0530 [62401 1] com.newrelic INFO: Writing to New Relic log file: /Users/abhijeetraj/IdeaProjects/circuit-breaker-test/libs/logs/newrelic_agent.log
+Jan 10, 2020 16:24:30 +0530 [62401 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_172
+Jan 10, 2020 16:24:30 +0530 [62401 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.172-b11
+Jan 10, 2020 16:24:30 +0530 [62401 1] com.newrelic INFO: OS Mac OS X version 10.13.6 arch x86_64
+Jan 10, 2020 16:24:30 +0530 [62401 1] com.newrelic INFO: Agent Host: LAP-C02VJDZFHV22.local IP: 172.17.10.15
+Jan 10, 2020 16:24:30 +0530 [62401 1] com.newrelic INFO: New Relic Agent v5.9.0 is initializing...
+Jan 10, 2020 16:24:32 +0530 [62401 10] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jan 10, 2020 16:24:34 +0530 [62401 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jan 10, 2020 16:24:34 +0530 [62401 1] com.newrelic INFO: Setting audit_mode to false
+Jan 10, 2020 16:24:34 +0530 [62401 1] com.newrelic INFO: Setting protocol to "https"
+Jan 10, 2020 16:24:35 +0530 [62401 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/abhijeetraj/IdeaProjects/circuit-breaker-test/libs/./newrelic.yml
+Jan 10, 2020 16:24:36 +0530 [62401 1] com.newrelic INFO: New Relic Agent v5.9.0 has started
+Jan 10, 2020 16:24:36 +0530 [62401 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@69d0a921
+Jan 10, 2020 16:24:36 +0530 [62401 1] com.newrelic INFO: Premain startup complete in 6,711ms
+Jan 10, 2020 16:24:42 +0530 [62401 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.29
+Jan 10, 2020 16:24:46 +0530 [62401 30] com.newrelic INFO: Host name is LAP-C02VJDZFHV22.local, display host LAP-C02VJDZFHV22.local for application My Application
+Jan 10, 2020 16:24:47 +0530 [62401 30] com.newrelic INFO: Collector redirection to collector-009.newrelic.com:443
+Jan 10, 2020 16:24:48 +0530 [62401 30] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Jan 10, 2020 16:24:49 +0530 [62401 30] com.newrelic INFO: Agent run id: BT7maBSRgl6yACdyqh9E_IteGFhAAAIBAAAnIQEAAPPBAgQfRPyJAwAFNS45LjAAFkxBUC1DMDJWSkRaRkhWMjIubG9jYWwADk15IEFwcGxpY2F0aW9u
+Jan 10, 2020 16:24:49 +0530 [62401 30] com.newrelic INFO: Agent 62401@LAP-C02VJDZFHV22.local/My Application connected to collector.newrelic.com:443
+Jan 10, 2020 16:24:49 +0530 [62401 30] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2585258/applications/524614793
+Jan 10, 2020 16:24:49 +0530 [62401 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jan 10, 2020 16:24:49 +0530 [62401 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jan 10, 2020 16:24:49 +0530 [62401 30] com.newrelic INFO: Real user monitoring is enabled for application My Application. Auto instrumentation is enabled.
+Jan 10, 2020 16:30:32 +0530 [62401 6] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jan 10, 2020 16:30:32 +0530 [62401 43] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@34ebdd41 tried to finish but ServiceManager not started
+Jan 10, 2020 16:30:32 +0530 [62401 49] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@357ef846 tried to finish but ServiceManager not started
+Jan 10, 2020 16:30:32 +0530 [62401 6] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jan 10, 2020 16:31:00 +0530 [62884 1] com.newrelic INFO: Writing to New Relic log file: /Users/abhijeetraj/IdeaProjects/circuit-breaker-test/libs/logs/newrelic_agent.log
+Jan 10, 2020 16:31:00 +0530 [62884 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_172
+Jan 10, 2020 16:31:00 +0530 [62884 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.172-b11
+Jan 10, 2020 16:31:00 +0530 [62884 1] com.newrelic INFO: OS Mac OS X version 10.13.6 arch x86_64
+Jan 10, 2020 16:31:00 +0530 [62884 1] com.newrelic INFO: Agent Host: LAP-C02VJDZFHV22.local IP: 172.17.10.15
+Jan 10, 2020 16:31:00 +0530 [62884 1] com.newrelic INFO: New Relic Agent v5.9.0 is initializing...
+Jan 10, 2020 16:31:01 +0530 [62884 10] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jan 10, 2020 16:31:04 +0530 [62884 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jan 10, 2020 16:31:04 +0530 [62884 1] com.newrelic INFO: Setting audit_mode to false
+Jan 10, 2020 16:31:04 +0530 [62884 1] com.newrelic INFO: Setting protocol to "https"
+Jan 10, 2020 16:31:06 +0530 [62884 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/abhijeetraj/IdeaProjects/circuit-breaker-test/libs/./newrelic.yml
+Jan 10, 2020 16:31:06 +0530 [62884 1] com.newrelic INFO: New Relic Agent v5.9.0 has started
+Jan 10, 2020 16:31:06 +0530 [62884 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@69d0a921
+Jan 10, 2020 16:31:06 +0530 [62884 1] com.newrelic INFO: Premain startup complete in 6,778ms
+Jan 10, 2020 16:31:13 +0530 [62884 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.29
+Jan 10, 2020 16:31:16 +0530 [62884 30] com.newrelic INFO: Host name is LAP-C02VJDZFHV22.local, display host LAP-C02VJDZFHV22.local for application My Application
+Jan 10, 2020 16:31:17 +0530 [62884 30] com.newrelic INFO: Collector redirection to collector-009.newrelic.com:443
+Jan 10, 2020 16:31:18 +0530 [62884 30] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Jan 10, 2020 16:31:18 +0530 [62884 30] com.newrelic INFO: Agent run id: BQRoB3azaiARACdyqh9E_IteGFnkAAIBAAAnIQEAAPWkAgQfRPyJAwAFNS45LjAAFkxBUC1DMDJWSkRaRkhWMjIubG9jYWwADk15IEFwcGxpY2F0aW9u
+Jan 10, 2020 16:31:18 +0530 [62884 30] com.newrelic INFO: Agent 62884@LAP-C02VJDZFHV22.local/My Application connected to collector.newrelic.com:443
+Jan 10, 2020 16:31:18 +0530 [62884 30] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2585258/applications/524614793
+Jan 10, 2020 16:31:18 +0530 [62884 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jan 10, 2020 16:31:18 +0530 [62884 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jan 10, 2020 16:31:19 +0530 [62884 30] com.newrelic INFO: Real user monitoring is enabled for application My Application. Auto instrumentation is enabled.
+Jan 10, 2020 16:42:24 +0530 [62884 6] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jan 10, 2020 16:42:24 +0530 [62884 47] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@7cca2ebf tried to finish but ServiceManager not started
+Jan 10, 2020 16:42:24 +0530 [62884 43] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@37d130c8 tried to finish but ServiceManager not started
+Jan 10, 2020 16:42:25 +0530 [62884 43] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@61d486d4 tried to finish but ServiceManager not started
+Jan 10, 2020 16:42:25 +0530 [62884 46] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@7eaea66a tried to finish but ServiceManager not started
+Jan 10, 2020 16:42:25 +0530 [62884 6] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jan 10, 2020 16:46:05 +0530 [63884 1] com.newrelic INFO: Writing to New Relic log file: /Users/abhijeetraj/IdeaProjects/circuit-breaker-test/libs/logs/newrelic_agent.log
+Jan 10, 2020 16:46:05 +0530 [63884 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_172
+Jan 10, 2020 16:46:05 +0530 [63884 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.172-b11
+Jan 10, 2020 16:46:05 +0530 [63884 1] com.newrelic INFO: OS Mac OS X version 10.13.6 arch x86_64
+Jan 10, 2020 16:46:05 +0530 [63884 1] com.newrelic INFO: Agent Host: LAP-C02VJDZFHV22.local IP: 172.17.10.15
+Jan 10, 2020 16:46:05 +0530 [63884 1] com.newrelic INFO: New Relic Agent v5.9.0 is initializing...
+Jan 10, 2020 16:46:06 +0530 [63884 10] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jan 10, 2020 16:46:09 +0530 [63884 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jan 10, 2020 16:46:09 +0530 [63884 1] com.newrelic INFO: Setting audit_mode to false
+Jan 10, 2020 16:46:09 +0530 [63884 1] com.newrelic INFO: Setting protocol to "https"
+Jan 10, 2020 16:46:10 +0530 [63884 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/abhijeetraj/IdeaProjects/circuit-breaker-test/libs/./newrelic.yml
+Jan 10, 2020 16:46:10 +0530 [63884 1] com.newrelic INFO: New Relic Agent v5.9.0 has started
+Jan 10, 2020 16:46:10 +0530 [63884 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@69d0a921
+Jan 10, 2020 16:46:10 +0530 [63884 1] com.newrelic INFO: Premain startup complete in 8,692ms
+Jan 10, 2020 16:46:17 +0530 [63884 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.29
+Jan 10, 2020 16:46:20 +0530 [63884 30] com.newrelic INFO: Host name is LAP-C02VJDZFHV22.local, display host LAP-C02VJDZFHV22.local for application My Application
+Jan 10, 2020 16:46:22 +0530 [63884 30] com.newrelic INFO: Collector redirection to collector-009.newrelic.com:443
+Jan 10, 2020 16:46:23 +0530 [63884 30] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Jan 10, 2020 16:46:23 +0530 [63884 30] com.newrelic INFO: Agent run id: BaDXii_Unz34ACdyqh9E_IteGF1oAAIBAAAnIQEAAPmMAgQfRPyJAwAFNS45LjAAFkxBUC1DMDJWSkRaRkhWMjIubG9jYWwADk15IEFwcGxpY2F0aW9u
+Jan 10, 2020 16:46:23 +0530 [63884 30] com.newrelic INFO: Agent 63884@LAP-C02VJDZFHV22.local/My Application connected to collector.newrelic.com:443
+Jan 10, 2020 16:46:23 +0530 [63884 30] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2585258/applications/524614793
+Jan 10, 2020 16:46:23 +0530 [63884 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jan 10, 2020 16:46:23 +0530 [63884 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jan 10, 2020 16:46:23 +0530 [63884 30] com.newrelic INFO: Real user monitoring is enabled for application My Application. Auto instrumentation is enabled.
+Jan 10, 2020 16:49:38 +0530 [63884 6] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jan 10, 2020 16:49:39 +0530 [63884 6] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jan 10, 2020 16:50:04 +0530 [64159 1] com.newrelic INFO: Writing to New Relic log file: /Users/abhijeetraj/IdeaProjects/circuit-breaker-test/libs/logs/newrelic_agent.log
+Jan 10, 2020 16:50:04 +0530 [64159 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_172
+Jan 10, 2020 16:50:04 +0530 [64159 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.172-b11
+Jan 10, 2020 16:50:04 +0530 [64159 1] com.newrelic INFO: OS Mac OS X version 10.13.6 arch x86_64
+Jan 10, 2020 16:50:04 +0530 [64159 1] com.newrelic INFO: Agent Host: LAP-C02VJDZFHV22.local IP: 172.17.10.15
+Jan 10, 2020 16:50:04 +0530 [64159 1] com.newrelic INFO: New Relic Agent v5.9.0 is initializing...
+Jan 10, 2020 16:50:05 +0530 [64159 10] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jan 10, 2020 16:50:08 +0530 [64159 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jan 10, 2020 16:50:08 +0530 [64159 1] com.newrelic INFO: Setting audit_mode to false
+Jan 10, 2020 16:50:08 +0530 [64159 1] com.newrelic INFO: Setting protocol to "https"
+Jan 10, 2020 16:50:10 +0530 [64159 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/abhijeetraj/IdeaProjects/circuit-breaker-test/libs/./newrelic.yml
+Jan 10, 2020 16:50:11 +0530 [64159 1] com.newrelic INFO: New Relic Agent v5.9.0 has started
+Jan 10, 2020 16:50:11 +0530 [64159 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@69d0a921
+Jan 10, 2020 16:50:11 +0530 [64159 1] com.newrelic INFO: Premain startup complete in 8,297ms
+Jan 10, 2020 16:50:18 +0530 [64159 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.29
+Jan 10, 2020 16:50:26 +0530 [64159 30] com.newrelic INFO: Host name is LAP-C02VJDZFHV22.local, display host LAP-C02VJDZFHV22.local for application My Application
+Jan 10, 2020 16:50:27 +0530 [64159 30] com.newrelic INFO: Collector redirection to collector-009.newrelic.com:443
+Jan 10, 2020 16:50:28 +0530 [64159 30] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Jan 10, 2020 16:50:28 +0530 [64159 30] com.newrelic INFO: Agent run id: BWMBRwCtm_TWACdyqh9E_IteGF5YAAIBAAAnIQEAAPqfAgQfRPyJAwAFNS45LjAAFkxBUC1DMDJWSkRaRkhWMjIubG9jYWwADk15IEFwcGxpY2F0aW9u
+Jan 10, 2020 16:50:28 +0530 [64159 30] com.newrelic INFO: Agent 64159@LAP-C02VJDZFHV22.local/My Application connected to collector.newrelic.com:443
+Jan 10, 2020 16:50:28 +0530 [64159 30] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2585258/applications/524614793
+Jan 10, 2020 16:50:28 +0530 [64159 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jan 10, 2020 16:50:28 +0530 [64159 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jan 10, 2020 16:50:28 +0530 [64159 30] com.newrelic INFO: Real user monitoring is enabled for application My Application. Auto instrumentation is enabled.
+Jan 10, 2020 16:51:12 +0530 [64159 6] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jan 10, 2020 16:51:13 +0530 [64159 6] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jan 10, 2020 16:52:23 +0530 [64342 1] com.newrelic INFO: Writing to New Relic log file: /Users/abhijeetraj/IdeaProjects/circuit-breaker-test/libs/logs/newrelic_agent.log
+Jan 10, 2020 16:52:23 +0530 [64342 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_172
+Jan 10, 2020 16:52:23 +0530 [64342 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.172-b11
+Jan 10, 2020 16:52:23 +0530 [64342 1] com.newrelic INFO: OS Mac OS X version 10.13.6 arch x86_64
+Jan 10, 2020 16:52:23 +0530 [64342 1] com.newrelic INFO: Agent Host: LAP-C02VJDZFHV22.local IP: 172.17.10.15
+Jan 10, 2020 16:52:23 +0530 [64342 1] com.newrelic INFO: New Relic Agent v5.9.0 is initializing...
+Jan 10, 2020 16:52:25 +0530 [64342 10] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jan 10, 2020 16:52:28 +0530 [64342 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jan 10, 2020 16:52:28 +0530 [64342 1] com.newrelic INFO: Setting audit_mode to false
+Jan 10, 2020 16:52:28 +0530 [64342 1] com.newrelic INFO: Setting protocol to "https"
+Jan 10, 2020 16:52:29 +0530 [64342 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/abhijeetraj/IdeaProjects/circuit-breaker-test/libs/./newrelic.yml
+Jan 10, 2020 16:52:29 +0530 [64342 1] com.newrelic INFO: New Relic Agent v5.9.0 has started
+Jan 10, 2020 16:52:29 +0530 [64342 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@69d0a921
+Jan 10, 2020 16:52:29 +0530 [64342 1] com.newrelic INFO: Premain startup complete in 7,646ms
+Jan 10, 2020 16:52:36 +0530 [64342 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.29
+Jan 10, 2020 16:52:44 +0530 [64342 30] com.newrelic INFO: Host name is LAP-C02VJDZFHV22.local, display host LAP-C02VJDZFHV22.local for application My Application
+Jan 10, 2020 16:52:46 +0530 [64342 30] com.newrelic INFO: Collector redirection to collector-009.newrelic.com:443
+Jan 10, 2020 16:52:47 +0530 [64342 30] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Jan 10, 2020 16:52:47 +0530 [64342 30] com.newrelic INFO: Agent run id: BfgNpXXkhIBNACdyqh9E_IteGF7QAAIBAAAnIQEAAPtWAgQfRPyJAwAFNS45LjAAFkxBUC1DMDJWSkRaRkhWMjIubG9jYWwADk15IEFwcGxpY2F0aW9u
+Jan 10, 2020 16:52:47 +0530 [64342 30] com.newrelic INFO: Agent 64342@LAP-C02VJDZFHV22.local/My Application connected to collector.newrelic.com:443
+Jan 10, 2020 16:52:47 +0530 [64342 30] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2585258/applications/524614793
+Jan 10, 2020 16:52:47 +0530 [64342 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jan 10, 2020 16:52:47 +0530 [64342 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jan 10, 2020 16:52:47 +0530 [64342 30] com.newrelic INFO: Real user monitoring is enabled for application My Application. Auto instrumentation is enabled.
+Jan 10, 2020 16:53:24 +0530 [64342 6] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jan 10, 2020 16:53:25 +0530 [64342 6] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jan 10, 2020 16:53:38 +0530 [64472 1] com.newrelic INFO: Writing to New Relic log file: /Users/abhijeetraj/IdeaProjects/circuit-breaker-test/libs/logs/newrelic_agent.log
+Jan 10, 2020 16:53:38 +0530 [64472 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_172
+Jan 10, 2020 16:53:38 +0530 [64472 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.172-b11
+Jan 10, 2020 16:53:38 +0530 [64472 1] com.newrelic INFO: OS Mac OS X version 10.13.6 arch x86_64
+Jan 10, 2020 16:53:38 +0530 [64472 1] com.newrelic INFO: Agent Host: LAP-C02VJDZFHV22.local IP: 172.17.10.15
+Jan 10, 2020 16:53:38 +0530 [64472 1] com.newrelic INFO: New Relic Agent v5.9.0 is initializing...
+Jan 10, 2020 16:53:39 +0530 [64472 10] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jan 10, 2020 16:53:41 +0530 [64472 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jan 10, 2020 16:53:41 +0530 [64472 1] com.newrelic INFO: Setting audit_mode to false
+Jan 10, 2020 16:53:41 +0530 [64472 1] com.newrelic INFO: Setting protocol to "https"
+Jan 10, 2020 16:53:42 +0530 [64472 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/abhijeetraj/IdeaProjects/circuit-breaker-test/libs/./newrelic.yml
+Jan 10, 2020 16:53:42 +0530 [64472 1] com.newrelic INFO: New Relic Agent v5.9.0 has started
+Jan 10, 2020 16:53:42 +0530 [64472 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@69d0a921
+Jan 10, 2020 16:53:42 +0530 [64472 1] com.newrelic INFO: Premain startup complete in 5,936ms
+Jan 10, 2020 16:53:47 +0530 [64472 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.29
+Jan 10, 2020 16:53:52 +0530 [64472 30] com.newrelic INFO: Host name is LAP-C02VJDZFHV22.local, display host LAP-C02VJDZFHV22.local for application My Application
+Jan 10, 2020 16:53:54 +0530 [64472 30] com.newrelic INFO: Collector redirection to collector-009.newrelic.com:443
+Jan 10, 2020 16:53:55 +0530 [64472 30] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Jan 10, 2020 16:53:55 +0530 [64472 30] com.newrelic INFO: Agent run id: Bb-hHrSZRQrhACdyqh9E_IteGF8MAAIBAAAnIQEAAPvYAgQfRPyJAwAFNS45LjAAFkxBUC1DMDJWSkRaRkhWMjIubG9jYWwADk15IEFwcGxpY2F0aW9u
+Jan 10, 2020 16:53:55 +0530 [64472 30] com.newrelic INFO: Agent 64472@LAP-C02VJDZFHV22.local/My Application connected to collector.newrelic.com:443
+Jan 10, 2020 16:53:55 +0530 [64472 30] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2585258/applications/524614793
+Jan 10, 2020 16:53:55 +0530 [64472 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jan 10, 2020 16:53:55 +0530 [64472 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jan 10, 2020 16:53:55 +0530 [64472 30] com.newrelic INFO: Real user monitoring is enabled for application My Application. Auto instrumentation is enabled.
+Jan 10, 2020 16:54:56 +0530 [64472 6] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jan 10, 2020 16:54:56 +0530 [64472 6] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jan 10, 2020 16:55:27 +0530 [64632 1] com.newrelic INFO: Writing to New Relic log file: /Users/abhijeetraj/IdeaProjects/circuit-breaker-test/libs/logs/newrelic_agent.log
+Jan 10, 2020 16:55:27 +0530 [64632 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_172
+Jan 10, 2020 16:55:27 +0530 [64632 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.172-b11
+Jan 10, 2020 16:55:27 +0530 [64632 1] com.newrelic INFO: OS Mac OS X version 10.13.6 arch x86_64
+Jan 10, 2020 16:55:27 +0530 [64632 1] com.newrelic INFO: Agent Host: LAP-C02VJDZFHV22.local IP: 172.17.10.15
+Jan 10, 2020 16:55:27 +0530 [64632 1] com.newrelic INFO: New Relic Agent v5.9.0 is initializing...
+Jan 10, 2020 16:55:28 +0530 [64632 10] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jan 10, 2020 16:55:31 +0530 [64632 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jan 10, 2020 16:55:31 +0530 [64632 1] com.newrelic INFO: Setting audit_mode to false
+Jan 10, 2020 16:55:31 +0530 [64632 1] com.newrelic INFO: Setting protocol to "https"
+Jan 10, 2020 16:55:32 +0530 [64632 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/abhijeetraj/IdeaProjects/circuit-breaker-test/libs/./newrelic.yml
+Jan 10, 2020 16:55:32 +0530 [64632 1] com.newrelic INFO: New Relic Agent v5.9.0 has started
+Jan 10, 2020 16:55:32 +0530 [64632 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@69d0a921
+Jan 10, 2020 16:55:32 +0530 [64632 1] com.newrelic INFO: Premain startup complete in 5,553ms
+Jan 10, 2020 16:55:38 +0530 [64632 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.29
+Jan 10, 2020 16:55:42 +0530 [64632 30] com.newrelic INFO: Host name is LAP-C02VJDZFHV22.local, display host LAP-C02VJDZFHV22.local for application My Application
+Jan 10, 2020 16:55:43 +0530 [64632 30] com.newrelic INFO: Collector redirection to collector-009.newrelic.com:443
+Jan 10, 2020 16:55:44 +0530 [64632 30] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Jan 10, 2020 16:55:44 +0530 [64632 30] com.newrelic INFO: Agent run id: BZmsmui6fYcRACdyqh9E_IteGF-EAAIBAAAnIQEAAPx4AgQfRPyJAwAFNS45LjAAFkxBUC1DMDJWSkRaRkhWMjIubG9jYWwADk15IEFwcGxpY2F0aW9u
+Jan 10, 2020 16:55:44 +0530 [64632 30] com.newrelic INFO: Agent 64632@LAP-C02VJDZFHV22.local/My Application connected to collector.newrelic.com:443
+Jan 10, 2020 16:55:44 +0530 [64632 30] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2585258/applications/524614793
+Jan 10, 2020 16:55:44 +0530 [64632 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jan 10, 2020 16:55:44 +0530 [64632 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jan 10, 2020 16:55:45 +0530 [64632 30] com.newrelic INFO: Real user monitoring is enabled for application My Application. Auto instrumentation is enabled.
+Jan 10, 2020 16:57:08 +0530 [64632 6] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jan 10, 2020 16:57:08 +0530 [64632 6] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jan 10, 2020 16:57:16 +0530 [64782 1] com.newrelic INFO: Writing to New Relic log file: /Users/abhijeetraj/IdeaProjects/circuit-breaker-test/libs/logs/newrelic_agent.log
+Jan 10, 2020 16:57:16 +0530 [64782 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_172
+Jan 10, 2020 16:57:16 +0530 [64782 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.172-b11
+Jan 10, 2020 16:57:16 +0530 [64782 1] com.newrelic INFO: OS Mac OS X version 10.13.6 arch x86_64
+Jan 10, 2020 16:57:16 +0530 [64782 1] com.newrelic INFO: Agent Host: LAP-C02VJDZFHV22.local IP: 172.17.10.15
+Jan 10, 2020 16:57:16 +0530 [64782 1] com.newrelic INFO: New Relic Agent v5.9.0 is initializing...
+Jan 10, 2020 16:57:17 +0530 [64782 10] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jan 10, 2020 16:57:20 +0530 [64782 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jan 10, 2020 16:57:20 +0530 [64782 1] com.newrelic INFO: Setting audit_mode to false
+Jan 10, 2020 16:57:20 +0530 [64782 1] com.newrelic INFO: Setting protocol to "https"
+Jan 10, 2020 16:57:21 +0530 [64782 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/abhijeetraj/IdeaProjects/circuit-breaker-test/libs/./newrelic.yml
+Jan 10, 2020 16:57:21 +0530 [64782 1] com.newrelic INFO: New Relic Agent v5.9.0 has started
+Jan 10, 2020 16:57:21 +0530 [64782 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@69d0a921
+Jan 10, 2020 16:57:21 +0530 [64782 1] com.newrelic INFO: Premain startup complete in 5,862ms
+Jan 10, 2020 16:57:30 +0530 [64782 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.29
+Jan 10, 2020 16:57:36 +0530 [64782 30] com.newrelic INFO: Host name is LAP-C02VJDZFHV22.local, display host LAP-C02VJDZFHV22.local for application My Application
+Jan 10, 2020 16:57:37 +0530 [64782 30] com.newrelic INFO: Collector redirection to collector-009.newrelic.com:443
+Jan 10, 2020 16:57:39 +0530 [64782 30] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Jan 10, 2020 16:57:39 +0530 [64782 30] com.newrelic INFO: Agent run id: BfN4UiDKHkUnACdyqh9E_IteGF_8AAIBAAAnIQEAAP0OAgQfRPyJAwAFNS45LjAAFkxBUC1DMDJWSkRaRkhWMjIubG9jYWwADk15IEFwcGxpY2F0aW9u
+Jan 10, 2020 16:57:39 +0530 [64782 30] com.newrelic INFO: Agent 64782@LAP-C02VJDZFHV22.local/My Application connected to collector.newrelic.com:443
+Jan 10, 2020 16:57:39 +0530 [64782 30] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2585258/applications/524614793
+Jan 10, 2020 16:57:39 +0530 [64782 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jan 10, 2020 16:57:39 +0530 [64782 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jan 10, 2020 16:57:39 +0530 [64782 30] com.newrelic INFO: Real user monitoring is enabled for application My Application. Auto instrumentation is enabled.
+Jan 10, 2020 17:00:55 +0530 [64782 6] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jan 10, 2020 17:00:55 +0530 [64782 6] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jan 10, 2020 17:05:40 +0530 [65342 1] com.newrelic INFO: Writing to New Relic log file: /Users/abhijeetraj/IdeaProjects/circuit-breaker-test/libs/logs/newrelic_agent.log
+Jan 10, 2020 17:05:40 +0530 [65342 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_172
+Jan 10, 2020 17:05:40 +0530 [65342 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.172-b11
+Jan 10, 2020 17:05:40 +0530 [65342 1] com.newrelic INFO: OS Mac OS X version 10.13.6 arch x86_64
+Jan 10, 2020 17:05:40 +0530 [65342 1] com.newrelic INFO: Agent Host: LAP-C02VJDZFHV22.local IP: 172.17.10.15
+Jan 10, 2020 17:05:40 +0530 [65342 1] com.newrelic INFO: New Relic Agent v5.9.0 is initializing...
+Jan 10, 2020 17:05:42 +0530 [65342 10] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jan 10, 2020 17:05:45 +0530 [65342 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jan 10, 2020 17:05:45 +0530 [65342 1] com.newrelic INFO: Setting audit_mode to false
+Jan 10, 2020 17:05:45 +0530 [65342 1] com.newrelic INFO: Setting protocol to "https"
+Jan 10, 2020 17:05:46 +0530 [65342 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/abhijeetraj/IdeaProjects/circuit-breaker-test/libs/./newrelic.yml
+Jan 10, 2020 17:05:46 +0530 [65342 1] com.newrelic INFO: New Relic Agent v5.9.0 has started
+Jan 10, 2020 17:05:46 +0530 [65342 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@69d0a921
+Jan 10, 2020 17:05:46 +0530 [65342 1] com.newrelic INFO: Premain startup complete in 8,116ms
+Jan 10, 2020 17:05:53 +0530 [65342 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.29
+Jan 10, 2020 17:05:56 +0530 [65342 30] com.newrelic INFO: Host name is LAP-C02VJDZFHV22.local, display host LAP-C02VJDZFHV22.local for application My Application
+Jan 10, 2020 17:05:57 +0530 [65342 30] com.newrelic INFO: Collector redirection to collector-009.newrelic.com:443
+Jan 10, 2020 17:05:59 +0530 [65342 30] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Jan 10, 2020 17:05:59 +0530 [65342 30] com.newrelic INFO: Agent run id: BdmRYWDrI41bACdyqh9E_IteGGHcAAIBAAAnIQEAAP8-AgQfRPyJAwAFNS45LjAAFkxBUC1DMDJWSkRaRkhWMjIubG9jYWwADk15IEFwcGxpY2F0aW9u
+Jan 10, 2020 17:05:59 +0530 [65342 30] com.newrelic INFO: Agent 65342@LAP-C02VJDZFHV22.local/My Application connected to collector.newrelic.com:443
+Jan 10, 2020 17:05:59 +0530 [65342 30] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2585258/applications/524614793
+Jan 10, 2020 17:05:59 +0530 [65342 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jan 10, 2020 17:05:59 +0530 [65342 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jan 10, 2020 17:05:59 +0530 [65342 30] com.newrelic INFO: Real user monitoring is enabled for application My Application. Auto instrumentation is enabled.
+Jan 10, 2020 17:10:03 +0530 [65342 6] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jan 10, 2020 17:10:03 +0530 [65342 43] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@65f85cfc tried to finish but ServiceManager not started
+Jan 10, 2020 17:10:03 +0530 [65342 43] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@3b9f4f36 tried to finish but ServiceManager not started
+Jan 10, 2020 17:10:03 +0530 [65342 62] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@1bde5139 tried to finish but ServiceManager not started
+Jan 10, 2020 17:10:03 +0530 [65342 45] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@4477e075 tried to finish but ServiceManager not started
+Jan 10, 2020 17:10:04 +0530 [65342 6] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jan 10, 2020 17:11:02 +0530 [65708 1] com.newrelic INFO: Writing to New Relic log file: /Users/abhijeetraj/IdeaProjects/circuit-breaker-test/libs/logs/newrelic_agent.log
+Jan 10, 2020 17:11:02 +0530 [65708 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_172
+Jan 10, 2020 17:11:02 +0530 [65708 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.172-b11
+Jan 10, 2020 17:11:02 +0530 [65708 1] com.newrelic INFO: OS Mac OS X version 10.13.6 arch x86_64
+Jan 10, 2020 17:11:02 +0530 [65708 1] com.newrelic INFO: Agent Host: LAP-C02VJDZFHV22.local IP: 172.17.10.15
+Jan 10, 2020 17:11:02 +0530 [65708 1] com.newrelic INFO: New Relic Agent v5.9.0 is initializing...
+Jan 10, 2020 17:11:04 +0530 [65708 10] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jan 10, 2020 17:11:06 +0530 [65708 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jan 10, 2020 17:11:06 +0530 [65708 1] com.newrelic INFO: Setting audit_mode to false
+Jan 10, 2020 17:11:06 +0530 [65708 1] com.newrelic INFO: Setting protocol to "https"
+Jan 10, 2020 17:11:07 +0530 [65708 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/abhijeetraj/IdeaProjects/circuit-breaker-test/libs/./newrelic.yml
+Jan 10, 2020 17:11:07 +0530 [65708 1] com.newrelic INFO: New Relic Agent v5.9.0 has started
+Jan 10, 2020 17:11:07 +0530 [65708 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@69d0a921
+Jan 10, 2020 17:11:07 +0530 [65708 1] com.newrelic INFO: Premain startup complete in 6,605ms
+Jan 10, 2020 17:11:16 +0530 [65708 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.29
+Jan 10, 2020 17:11:22 +0530 [65708 30] com.newrelic INFO: Host name is LAP-C02VJDZFHV22.local, display host LAP-C02VJDZFHV22.local for application My Application
+Jan 10, 2020 17:11:24 +0530 [65708 30] com.newrelic INFO: Collector redirection to collector-009.newrelic.com:443
+Jan 10, 2020 17:11:25 +0530 [65708 30] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Jan 10, 2020 17:11:25 +0530 [65708 30] com.newrelic INFO: Agent run id: BRxsG_iwBWXKACdyqh9E_IteGGNEAAIBAAAnIQEAAQCsAgQfRPyJAwAFNS45LjAAFkxBUC1DMDJWSkRaRkhWMjIubG9jYWwADk15IEFwcGxpY2F0aW9u
+Jan 10, 2020 17:11:25 +0530 [65708 30] com.newrelic INFO: Agent 65708@LAP-C02VJDZFHV22.local/My Application connected to collector.newrelic.com:443
+Jan 10, 2020 17:11:25 +0530 [65708 30] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2585258/applications/524614793
+Jan 10, 2020 17:11:25 +0530 [65708 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jan 10, 2020 17:11:25 +0530 [65708 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jan 10, 2020 17:11:25 +0530 [65708 30] com.newrelic INFO: Real user monitoring is enabled for application My Application. Auto instrumentation is enabled.
+Jan 10, 2020 17:13:07 +0530 [65708 6] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+Jan 10, 2020 17:13:07 +0530 [65708 6] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+Jan 10, 2020 17:14:00 +0530 [65916 1] com.newrelic INFO: Writing to New Relic log file: /Users/abhijeetraj/IdeaProjects/circuit-breaker-test/libs/logs/newrelic_agent.log
+Jan 10, 2020 17:14:00 +0530 [65916 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_172
+Jan 10, 2020 17:14:00 +0530 [65916 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.172-b11
+Jan 10, 2020 17:14:00 +0530 [65916 1] com.newrelic INFO: OS Mac OS X version 10.13.6 arch x86_64
+Jan 10, 2020 17:14:00 +0530 [65916 1] com.newrelic INFO: Agent Host: LAP-C02VJDZFHV22.local IP: 172.17.10.15
+Jan 10, 2020 17:14:00 +0530 [65916 1] com.newrelic INFO: New Relic Agent v5.9.0 is initializing...
+Jan 10, 2020 17:14:01 +0530 [65916 10] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+Jan 10, 2020 17:14:04 +0530 [65916 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jan 10, 2020 17:14:04 +0530 [65916 1] com.newrelic INFO: Setting audit_mode to false
+Jan 10, 2020 17:14:04 +0530 [65916 1] com.newrelic INFO: Setting protocol to "https"
+Jan 10, 2020 17:14:05 +0530 [65916 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/abhijeetraj/IdeaProjects/circuit-breaker-test/libs/./newrelic.yml
+Jan 10, 2020 17:14:05 +0530 [65916 1] com.newrelic INFO: New Relic Agent v5.9.0 has started
+Jan 10, 2020 17:14:06 +0530 [65916 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@69d0a921
+Jan 10, 2020 17:14:06 +0530 [65916 1] com.newrelic INFO: Premain startup complete in 6,511ms
+Jan 10, 2020 17:14:12 +0530 [65916 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.29
+Jan 10, 2020 17:14:15 +0530 [65916 30] com.newrelic INFO: Host name is LAP-C02VJDZFHV22.local, display host LAP-C02VJDZFHV22.local for application My Application
+Jan 10, 2020 17:14:17 +0530 [65916 30] com.newrelic INFO: Collector redirection to collector-009.newrelic.com:443
+Jan 10, 2020 17:14:18 +0530 [65916 30] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Jan 10, 2020 17:14:18 +0530 [65916 30] com.newrelic INFO: Agent run id: BeHPfyDbtYknACdyqh9E_IteGGP4AAIBAAAnIQEAAQF8AgQfRPyJAwAFNS45LjAAFkxBUC1DMDJWSkRaRkhWMjIubG9jYWwADk15IEFwcGxpY2F0aW9u
+Jan 10, 2020 17:14:18 +0530 [65916 30] com.newrelic INFO: Agent 65916@LAP-C02VJDZFHV22.local/My Application connected to collector.newrelic.com:443
+Jan 10, 2020 17:14:18 +0530 [65916 30] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2585258/applications/524614793
+Jan 10, 2020 17:14:18 +0530 [65916 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jan 10, 2020 17:14:18 +0530 [65916 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Jan 10, 2020 17:14:19 +0530 [65916 30] com.newrelic INFO: Real user monitoring is enabled for application My Application. Auto instrumentation is enabled.
+Jan 10, 2020 17:14:49 +0530 [65916 69] com.newrelic WARN: Dropped 128 error events out of 136.
+Jan 10, 2020 17:14:55 +0530 [65916 69] com.newrelic WARN: Dropped 16 error events out of 24.
+Jan 10, 2020 17:15:04 +0530 [65916 69] com.newrelic WARN: Dropped 17 error events out of 25.
+Jan 10, 2020 17:15:09 +0530 [65916 69] com.newrelic WARN: Dropped 7 error events out of 15.
+Jan 10, 2020 17:15:14 +0530 [65916 69] com.newrelic WARN: Dropped 1 error events out of 9.
+Jan 10, 2020 17:15:34 +0530 [65916 69] com.newrelic WARN: Dropped 8 error events out of 16.
+Jan 10, 2020 17:15:44 +0530 [65916 69] com.newrelic WARN: Dropped 1 error events out of 9.
+Jan 10, 2020 17:15:59 +0530 [65916 69] com.newrelic WARN: Dropped 7 error events out of 15.
+Jan 10, 2020 17:16:04 +0530 [65916 69] com.newrelic WARN: Dropped 28 error events out of 36.
+Jan 10, 2020 17:16:14 +0530 [65916 69] com.newrelic WARN: Dropped 8 error events out of 16.
+Jan 10, 2020 17:16:24 +0530 [65916 69] com.newrelic WARN: Dropped 2 error events out of 10.
+Jan 10, 2020 17:16:29 +0530 [65916 69] com.newrelic WARN: Dropped 13 error events out of 21.
+Jan 10, 2020 17:16:39 +0530 [65916 69] com.newrelic WARN: Dropped 5 error events out of 13.
+Jan 10, 2020 17:16:44 +0530 [65916 69] com.newrelic WARN: Dropped 2 error events out of 10.
+Jan 10, 2020 17:16:54 +0530 [65916 69] com.newrelic WARN: Dropped 7 error events out of 15.
+Jan 10, 2020 17:17:04 +0530 [65916 69] com.newrelic WARN: Dropped 13 error events out of 21.
+Jan 10, 2020 17:17:09 +0530 [65916 69] com.newrelic WARN: Dropped 4 error events out of 12.
+Jan 10, 2020 17:17:19 +0530 [65916 69] com.newrelic WARN: Dropped 1 error events out of 9.
+Jan 10, 2020 17:17:34 +0530 [65916 69] com.newrelic WARN: Dropped 18 error events out of 26.
+Jan 10, 2020 17:17:44 +0530 [65916 69] com.newrelic WARN: Dropped 8 error events out of 16.
+Jan 10, 2020 17:17:50 +0530 [65916 69] com.newrelic WARN: Dropped 3 error events out of 11.
+Jan 10, 2020 17:17:59 +0530 [65916 69] com.newrelic WARN: Dropped 16 error events out of 24.
+Jan 10, 2020 17:18:04 +0530 [65916 69] com.newrelic WARN: Dropped 5 error events out of 13.
+Jan 10, 2020 17:18:09 +0530 [65916 69] com.newrelic WARN: Dropped 12 error events out of 20.
+Jan 10, 2020 17:18:14 +0530 [65916 69] com.newrelic WARN: Dropped 6 error events out of 14.
+Jan 10, 2020 17:18:24 +0530 [65916 69] com.newrelic WARN: Dropped 11 error events out of 19.
+Jan 10, 2020 17:18:29 +0530 [65916 69] com.newrelic WARN: Dropped 10 error events out of 18.
+Jan 10, 2020 17:18:39 +0530 [65916 69] com.newrelic WARN: Dropped 18 error events out of 26.
+Jan 10, 2020 17:18:54 +0530 [65916 69] com.newrelic WARN: Dropped 12 error events out of 20.
+Jan 10, 2020 17:19:04 +0530 [65916 69] com.newrelic WARN: Dropped 11 error events out of 19.
+Jan 10, 2020 17:19:09 +0530 [65916 69] com.newrelic WARN: Dropped 2 error events out of 10.
+Jan 10, 2020 17:19:19 +0530 [65916 69] com.newrelic WARN: Dropped 8 error events out of 16.
